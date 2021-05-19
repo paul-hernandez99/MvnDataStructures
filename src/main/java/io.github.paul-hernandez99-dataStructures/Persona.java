@@ -1,4 +1,3 @@
-package main.java.com.github.paul-hernandez99;
 
 public class Persona {
   private String nombre;
@@ -20,7 +19,7 @@ public class Persona {
     this.edad = edad;
   }
   public int getEdad() {
-    return this.edad
+    return this.edad;
   }
   public void setDni(int dni) {
     this.dni = dni;
