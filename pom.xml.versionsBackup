@@ -7,7 +7,7 @@
   <groupId>io.github.paul-hernandez99</groupId>
   <artifactId>dataStructures</artifactId>
   <packaging>jar</packaging>
-  <version>1.2.3</version>
+  <version>1.0</version>
 
   <build>
     <sourceDirectory>src</sourceDirectory>
